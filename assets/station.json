@@ -1,0 +1,110 @@
+{
+	"stations": [{
+		"keyword": "Jurong",
+		"autocompleteTerm": "Jurong East",
+		"line": "NS1 EW24",
+		"lat" : 1.33351,
+		"long" : 103.74202
+
+	}, {
+		"keyword": "Bukit B",
+		"autocompleteTerm": "Bukit Batok",
+		"line": "NS3"
+	}, {
+		"keyword": "Bukit G",
+		"autocompleteTerm": "Bukit Gombak",
+		"line": "NS3"
+	}, {
+		"keyword": "Choa",
+		"autocompleteTerm": "Choa Chu Kang",
+		"line": "NS4 BP1"
+	}, {
+		"keyword": "Yew",
+		"autocompleteTerm": "Yew Tee",
+		"line": "NS5"
+	}, {
+		"keyword": "Kran",
+		"autocompleteTerm": "Kranji",
+		"line": "NS7"
+	}, {
+		"keyword": "Mars",
+		"autocompleteTerm": "Marsiling",
+		"line": "NS8"
+	}, {
+		"keyword": "Wood",
+		"autocompleteTerm": "Woodlands",
+		"line": "NS9"
+	}, {
+		"keyword": "Admir",
+		"autocompleteTerm": "Admiralty",
+		"line": "NS10"
+	}, {
+		"keyword": "Semb",
+		"autocompleteTerm": "Sembawang",
+		"line": "NS11"
+	}, {
+		"keyword": "Yi",
+		"autocompleteTerm": "Yishun",
+		"line": "NS13"
+	}, {
+		"keyword": "Kha",
+		"autocompleteTerm": "Khatib",
+		"line": "NS14"
+	}, {
+		"keyword": "Yio",
+		"autocompleteTerm": "Yio Chu Kang",
+		"line": "NS15"
+	}, {
+		"keyword": "Ang",
+		"autocompleteTerm": "Ang MO Kio",
+		"line": "NS16"
+	}, {
+		"keyword": "Bis",
+		"autocompleteTerm": "Bishan",
+		"line": "NS17 CC15"
+	}, {
+		"keyword": "Brad",
+		"autocompleteTerm": "Braddell",
+		"line": "NS18"
+	}, {
+		"keyword": "Toa",
+		"autocompleteTerm": "Toa Payoh",
+		"line": "NS19"
+	}, {
+		"keyword": "Nov",
+		"autocompleteTerm": "Novena",
+		"line": "NS20"
+	}, {
+		"keyword": "New",
+		"autocompleteTerm": "Newton",
+		"line": "NS21 DT11"
+	}, {
+		"keyword": "Orc",
+		"autocompleteTerm": "Orchard",
+		"line": "NS22"
+	}, {
+		"keyword": "Some",
+		"autocompleteTerm": "Somerset",
+		"line": "NS23"
+	}, {
+		"keyword": "Dhoby",
+		"autocompleteTerm": "Dhoby Ghaut",
+		"line": "NS24 NE6 CC1"
+	}, {
+		"keyword": "City",
+		"autocompleteTerm": "City Hall",
+		"line": "NS25 EW13"
+	}, {
+		"keyword": "Raffles",
+		"autocompleteTerm": "Raffles Place",
+		"line": "NS26 EW13"
+	}, {
+		"keyword": "Marina",
+		"autocompleteTerm": "Marina Bay",
+		"line": "NS27 CE2"
+	}, {
+		"keyword": "Marina South",
+		"autocompleteTerm": "Matina South Pier",
+		"line": "NS28"
+	}]
+}
