@@ -193,6 +193,7 @@ class _AutoCompleteState extends State<Train> {
           label: Text("Submit"),
           onPressed: () {
             Navigator.push(context, MaterialPageRoute(builder: (context) => LocationView(descontroller.text)));
+            print(descontroller.text);
           },
         ),
       ),
